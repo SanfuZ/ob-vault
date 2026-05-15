@@ -133,3 +133,58 @@
 - 知识冲突：1 个（概念性标注）
 
 ---
+
+## [2026-05-16] ingest | 引入 Obsidian CLI 教程与 AI 智能体生态知识
+
+### 处理文件
+
+**Transcripts（1 篇）:**
+- `raw/03-transcripts/2026-05-15-Obsidian CLI 详细教程:官方命令行工具,激进拥抱智能体,高效 + 自动化 + 降低Token消耗。.md` — B 站「杰森的效率工坊」视频教程
+
+### 创建的来源摘要（1 个）
+
+| 文件 | 描述 |
+|------|------|
+| [[摘要-obsidian-cli-tutorial]] | Obsidian CLI 详细教程:官方命令行工具拥抱智能体 |
+
+### 创建的实体页面（6 个）
+
+| 页面 | 类型 | 核心内容 |
+|------|------|----------|
+| [[Obsidian]] | 笔记软件 | 本地优先 Markdown 笔记软件,定位与战略 |
+| [[Obsidian_CLI]] | 工具 | 官方 CLI 工具详解,机制/优势/使用场景 |
+| [[Kepano]] | 人物 | Obsidian CEO,Skills 作者,Local-First 倡导者 |
+| [[Claude_Code]] | 工具 | Anthropic 智能体编程工具(CLI) |
+| [[Gemini_CLI]] | 工具 | Google 智能体命令行工具(免费额度优先) |
+| [[n8n]] | 工具 | 开源可视化工作流自动化平台 |
+
+### 创建的概念页面（4 个）
+
+| 页面 | 类型 | 核心内容 |
+|------|------|----------|
+| [[Agent_Skill]] | 标准 | 智能体扩展能力的标准化包 |
+| [[IPC]] | 架构 | 进程间通信,Obsidian CLI 的底层机制 |
+| [[Local_First]] | 哲学 | 本地优先的设计范式与数据主权理念 |
+| [[Token_Efficiency]] | 跨主题 | 跨提示工程与工具集成的 Token 优化(同时修复死链) |
+
+### 重要发现
+
+1. **AI 操作软件的范式转变**:从"文件系统读写"到"IPC 进程通信",带来 Token 消耗数量级下降(数百万 → ~100)
+2. **Obsidian 的智能体战略**:不做官方 AI,而是通过 CLI + Agent Skills 接入所有第三方智能体,既保持 Local-First,又拥抱智能体生态
+3. **工作流 vs 智能体的选择原则**:"越是确定性的任务,越要用工作流和代码,而不是智能体" —— Token 成本的核心权衡
+4. **Token Efficiency 跨主题桥接**:5C 框架的"提示层 Token 效率"与 Obsidian CLI 的"工具层 Token 效率"在 [[Token_Efficiency]] 页面统一,形成跨主题知识桥接
+
+### 修复死链
+- [[Token_Efficiency]] — 此前被 [[5C_Framework]] 和 [[摘要-5c-prompt-contracts-paper]] 引用但缺失,本次创建并扩展覆盖
+
+### 冲突
+无知识冲突。本次引入的智能体生态主题与已有的提示工程主题相互正交、有机互补。
+
+### 更新文件
+- [[index.md]] — 新增「AI 智能体 × Obsidian」分类,扩展 Sources/Entities/Concepts 三大区
+- [[log.md]] — 记录本次操作（本条目）
+
+### 归档操作
+源文件已移动至 `raw/09-archive/` 目录。
+
+---
