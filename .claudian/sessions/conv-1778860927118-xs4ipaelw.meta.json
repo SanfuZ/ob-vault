@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778860927118-xs4ipaelw",
+  "providerId": "claude",
+  "title": "Summarize article overview",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778860927118,
+  "updatedAt": 1778861001200,
+  "lastResponseAt": 1778861001200,
+  "sessionId": "88b77bda-2957-4728-9fb9-13ac219bd890",
+  "providerState": {
+    "providerSessionId": "88b77bda-2957-4728-9fb9-13ac219bd890"
+  },
+  "currentNote": "raw/03-transcripts/2026-05-15-Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 10264,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33886,
+    "contextWindow": 200000,
+    "contextTokens": 44150,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

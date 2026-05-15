@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778860493662-nunba11c6",
+  "providerId": "claude",
+  "title": "您好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778860493663,
+  "updatedAt": 1778860760632,
+  "lastResponseAt": 1778860760632,
+  "sessionId": "bd4b9290-8446-47bb-8c42-e39a4d6cc736",
+  "providerState": {
+    "providerSessionId": "bd4b9290-8446-47bb-8c42-e39a4d6cc736"
+  },
+  "currentNote": "raw/03-transcripts/2026-05-15-如何为 Obsidian 配置 AI Agent？9 个必备 Skill 详解与安装指南.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 12853,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33868,
+    "contextWindow": 200000,
+    "contextTokens": 46721,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}
