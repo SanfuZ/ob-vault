@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779032211834-ettw38izr",
+  "providerId": "claude",
+  "title": "Summarize video content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779032211834,
+  "updatedAt": 1779032346538,
+  "lastResponseAt": 1779032260856,
+  "sessionId": "91c7fe4c-9bb7-42a6-a317-e3e1e00642d7",
+  "providerState": {
+    "providerSessionId": "91c7fe4c-9bb7-42a6-a317-e3e1e00642d7"
+  },
+  "currentNote": "raw/03-transcripts/2026-05-17-AI一键搭建Obsidian知识库架构和学习路径，从0开始学习并精通任何一个知识领域。.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 9531,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33655,
+    "contextWindow": 200000,
+    "contextTokens": 43186,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
