@@ -4,6 +4,20 @@
   "title": "Migrate and reformat article to raw/01-articles",
   "titleGenerationStatus": "success",
   "createdAt": 1778978835281,
-  "updatedAt": 1778978845269,
-  "sessionId": null
+  "updatedAt": 1778979002854,
+  "lastResponseAt": 1778979002854,
+  "sessionId": "eacf3e52-048b-4d21-8d41-f598e1b5c466",
+  "providerState": {
+    "providerSessionId": "eacf3e52-048b-4d21-8d41-f598e1b5c466"
+  },
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 521,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51757,
+    "contextWindow": 200000,
+    "contextTokens": 52278,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
 }
