@@ -4,7 +4,6 @@ type: entity
 tags: [工具, 绘图, Obsidian, 插件, 头脑风暴]
 sources:
   - raw/03-transcripts/2026-05-15-如何为 Obsidian 配置 AI Agent？9 个必备 Skill 详解与安装指南.md
-last_invalidated: 2026-05-17
 last_updated: 2026-05-17
 ---
 
