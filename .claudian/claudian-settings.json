@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "normal",
+  "permissionMode": "yolo",
   "model": "kimi",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -76,7 +76,7 @@
     "claude": "off"
   },
   "savedProviderPermissionMode": {
-    "claude": "normal"
+    "claude": "yolo"
   },
   "lastCustomModel": "kimi",
   "maxTabs": 3,
