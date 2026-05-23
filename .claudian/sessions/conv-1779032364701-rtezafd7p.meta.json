@@ -4,6 +4,19 @@
   "title": "Ingest raw material into Obsidian wiki",
   "titleGenerationStatus": "success",
   "createdAt": 1779032364701,
-  "updatedAt": 1779032374250,
-  "sessionId": null
+  "updatedAt": 1779242832740,
+  "lastResponseAt": 1779242832740,
+  "sessionId": "488e55e0-6d0c-4b07-b0f9-2d620bcec64c",
+  "providerState": {
+    "providerSessionId": "488e55e0-6d0c-4b07-b0f9-2d620bcec64c"
+  },
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 6075,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 157579,
+    "contextWindow": 200000,
+    "contextTokens": 163654,
+    "percentage": 82
+  }
 }
