@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779509830261-mgyh3tbx0",
+  "providerId": "claude",
+  "title": "解释关联是否具有方向性",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779509830261,
+  "updatedAt": 1779509900849,
+  "lastResponseAt": 1779509865793,
+  "sessionId": "82647763-71e7-4964-96df-2ac69df51f77",
+  "providerState": {
+    "providerSessionId": "82647763-71e7-4964-96df-2ac69df51f77"
+  },
+  "currentNote": "wiki/concepts/Association.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 20643,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19200,
+    "contextWindow": 200000,
+    "contextTokens": 39843,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}
