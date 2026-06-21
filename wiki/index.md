@@ -20,6 +20,9 @@
 ### AI 智能体 × Obsidian
 - [[摘要-obsidian-cli-tutorial]] — Obsidian CLI 详细教程:官方命令行工具拥抱智能体
 
+### 项目案例 / 工作流
+- [[摘要-loop-engineering-agnes-ai-project-radar]] — 用 Loop Engineering + Agnes AI 打造 GitHub 项目监控雷达
+
 ---
 
 ## Entities（实体）
@@ -34,6 +37,7 @@
 ### 模型/产品
 - [[Gemini]] — Google 的大型语言模型家族
 - [[Claude]] — Anthropic 的大型语言模型家族
+- [[Agnes_AI]] — 免费开放的多模态基础模型公司，主打 Agnes 2.0 Flash
 
 ### 笔记/知识管理工具
 - [[Obsidian]] — 本地优先的 Markdown 笔记软件
@@ -51,6 +55,7 @@
 ### 核心概念
 - [[Prompt_Engineering]] — 提示工程：设计与优化 LLM 输入的技术学科
 - [[Context_Engineering]] — 上下文工程：从单个提示到系统上下文管理的范式转变
+- [[Loop_Engineering]] — 循环工程：让 Agent 自主发现任务、处理任务、记录结果并推进下一轮运行
 
 ### 提示技术
 - [[Zero_Shot_Prompting]] — 零样本提示：无示例直接提问
@@ -81,9 +86,10 @@
 ## Syntheses（综合分析）
 
 - [[5c-prompt-markdown-note-taking]] — 基于 5C Framework 的 Markdown 知识笔记撰写提示词模板
+- [[project-github-radar-loop-engineering]] — 基于 Loop Engineering 的 GitHub Trending 项目监控雷达实现
 
 （待创建：框架对比分析、模型特性对比等）
 
 ---
 
-*最后更新：2026-05-16*
+*最后更新：2026-06-21*

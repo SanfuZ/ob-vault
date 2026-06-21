@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782025918234-hypbddkbz",
+  "providerId": "claude",
+  "title": "Create loop Engineering project from subtitles",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782025918234,
+  "updatedAt": 1782026080549,
+  "lastResponseAt": 1782026080549,
+  "sessionId": "4eca7054-c560-455b-81d8-1e4dd08d508a",
+  "providerState": {
+    "providerSessionId": "4eca7054-c560-455b-81d8-1e4dd08d508a"
+  },
+  "currentNote": "raw/03-transcripts/2026-06-21-Loop Engineering+Agnes AI ，打造项目监控雷达.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 36118,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35584,
+    "contextWindow": 200000,
+    "contextTokens": 71702,
+    "percentage": 36,
+    "contextWindowIsAuthoritative": true
+  }
+}

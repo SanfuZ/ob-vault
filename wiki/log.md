@@ -188,3 +188,54 @@
 源文件已移动至 `raw/09-archive/` 目录。
 
 ---
+
+## [2026-06-21] ingest | 引入 Loop Engineering + Agnes AI 项目监控雷达案例
+
+### 处理文件
+
+**Transcripts（1 篇）:**
+- `raw/03-transcripts/2026-06-21-Loop Engineering+Agnes AI ，打造项目监控雷达.md` — B 站「第四种黑猩猩CHIMP」视频字幕
+
+### 创建的来源摘要（1 个）
+
+| 文件 | 描述 |
+|------|------|
+| [[摘要-loop-engineering-agnes-ai-project-radar]] | 用 Loop Engineering + Agnes AI 打造 GitHub 项目监控雷达 |
+
+### 创建的实体页面（1 个）
+
+| 页面 | 类型 | 核心内容 |
+|------|------|----------|
+| [[Agnes_AI]] | 实体 | 免费开放的多模态基础模型公司及其 Agnes 2.0 Flash 模型 |
+
+### 创建的概念页面（1 个）
+
+| 页面 | 类型 | 核心内容 |
+|------|------|----------|
+| [[Loop_Engineering]] | 概念 | 让 Agent 自主循环发现任务、处理任务、记录结果并推进下一轮运行 |
+
+### 创建的综合分析页面（1 个）
+
+| 页面 | 类型 | 核心内容 |
+|------|------|----------|
+| [[project-github-radar-loop-engineering]] | 综合 | 可复现的 GitHub Trending 项目监控雷达完整实现参考 |
+
+### 重要发现
+
+1. **Loop Engineering 范式**：从手动写每条提示词，转向设计让 Agent 自主循环运行的系统，是提示工程向系统上下文管理的进一步延伸
+2. **代码 vs Agent 的分工原则**：确定性操作（抓取、去重、通知）交给脚本；判断性操作（评分、分析、决策）交给 Agent
+3. **子 Agent 隔离脏数据**：深度分析陌生项目时派子 Agent 处理安装日志、报错堆栈等脏数据，主 Agent 上下文保持清爽
+4. **Agnes 2.0 Flash 的适用场景**：免费 + 100 万上下文窗口，特别适合长期重复、上下文消耗大的后台任务
+5. **Markdown 作为状态层**：用 `seen.txt`、`history.md`、`reports/` 分层保存状态，避免上下文无限膨胀
+
+### 冲突
+无知识冲突。本次引入的 Loop Engineering 案例与已有的提示工程、Context Engineering、Agent 生态主题相互补充。
+
+### 更新文件
+- [[index.md]] — 新增「项目案例 / 工作流」分类，注册新页面
+- [[log.md]] — 记录本次操作（本条目）
+
+### 归档操作
+源文件保留在 `raw/03-transcripts/` 目录，未移动（按 raw/ 只读原则处理）。
+
+---
