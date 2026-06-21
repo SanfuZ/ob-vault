@@ -6,14 +6,11 @@
         "conversationId": "conv-1778860493662-nunba11c6"
       },
       {
-        "tabId": "tab-1779032352459-h5xedr5",
-        "conversationId": "conv-1779032364701-rtezafd7p"
-      },
-      {
-        "tabId": "tab-1779509823263-13rkmub",
-        "conversationId": "conv-1779509830261-mgyh3tbx0"
+        "draftModel": "kimi",
+        "tabId": "tab-1782025867527-vzmep43",
+        "conversationId": null
       }
     ],
-    "activeTabId": "tab-1779509823263-13rkmub"
+    "activeTabId": "tab-1782025867527-vzmep43"
   }
 }

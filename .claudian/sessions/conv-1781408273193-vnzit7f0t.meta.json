@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781408273193-vnzit7f0t",
+  "providerId": "claude",
+  "title": "Generate article summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781408273193,
+  "updatedAt": 1782025853876,
+  "lastResponseAt": 1781408293924,
+  "sessionId": "a0a082eb-77ac-4ffd-85e6-89948cd3bbfd",
+  "providerState": {
+    "providerSessionId": "a0a082eb-77ac-4ffd-85e6-89948cd3bbfd"
+  },
+  "currentNote": "raw/03-transcripts/2026-06-14-【中字】海外博主反驳AI编程主流：Rust才是最佳选择.md",
+  "usage": {
+    "model": "kimi",
+    "inputTokens": 24167,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19456,
+    "contextWindow": 200000,
+    "contextTokens": 43623,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
